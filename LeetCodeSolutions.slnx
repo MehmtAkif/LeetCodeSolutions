@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Arrays/Arrays.csproj" />
+  <Project Path="LeetCode.Runner/LeetCode.Runner.csproj" />
+</Solution>
