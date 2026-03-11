@@ -1,11 +1,10 @@
-﻿using Arrays;
+﻿// Test 1
+using Arrays;
 
-
-// Test 1
-int[] prices1 = { 7, 1, 5, 3, 6, 4 };
-BestTimeToBuyAndSellStock stock = new BestTimeToBuyAndSellStock();
-Console.WriteLine($"Test 1: {stock.MaxProfit(prices1)}"); // Beklenen: 5
+int[] nums4 = { 1, 2, 3, 1 };
+ContainsDuplicate duplicate = new ContainsDuplicate();
+Console.WriteLine($"Test 1: {duplicate.ContainsDuplicateMethod(nums4)}"); // Beklenen: True
 
 // Test 2
-int[] prices2 = { 7, 6, 4, 3, 1 };
-Console.WriteLine($"Test 2: {stock.MaxProfit(prices2)}"); // Beklenen: 0
+int[] nums5 = { 1, 2, 3, 4 };
+Console.WriteLine($"Test 2: {duplicate.ContainsDuplicateMethod(nums5)}"); // Beklenen: False
