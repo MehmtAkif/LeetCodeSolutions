@@ -9,7 +9,7 @@ Her problem C# ile çözülmüş olup konu bazlı olarak düzenlenmiştir.
 
 | Konu | Problem Sayısı |
 |------|---------------|
-| [Arrays](./Arrays/) | 2 |
+| [Arrays](./Arrays/) | 3 |
 
 ---
 
@@ -19,6 +19,7 @@ Her problem C# ile çözülmüş olup konu bazlı olarak düzenlenmiştir.
 |---|---------|--------|------|-------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | Array, HashMap | [Çözüm](./Arrays/TwoSum.cs) |
 | 2 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | Array | [Çözüm](./Arrays/BestTimeToBuyAndSellStock.cs) |
+| 3 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | Array, HashSet | [Çözüm](./Arrays/ContainsDuplicate.cs) |
 
 ---
 
@@ -28,7 +29,7 @@ Her problem C# ile çözülmüş olup konu bazlı olarak düzenlenmiştir.
 ---
 
 ## 📈 İlerleme
-- **Toplam Çözülen:** 2
-- **Easy:** 2
+- **Toplam Çözülen:** 3
+- **Easy:** 3
 - **Medium:** 0
 - **Hard:** 0
