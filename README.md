@@ -37,3 +37,13 @@ Her problem C# ile çözülmüş olup konu bazlı olarak düzenlenmiştir.
 - **Easy:** 4
 - **Medium:** 2
 - **Hard:** 0
+
+---
+
+## 🧪 Testler
+
+Her problem için xUnit testleri yazılmıştır. Testleri çalıştırmak için:
+
+```bash
+dotnet test
+```
