@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="Arrays/Arrays.csproj" />
   <Project Path="LeetCode.Runner/LeetCode.Runner.csproj" />
+  <Project Path="LeetCode.Tests/LeetCode.Tests.csproj" Id="a224e970-6fe2-49cd-bfc4-cdf6ad27534e" />
+  <Project Path="Tree/Tree.csproj" Id="75102b32-d192-442a-8249-3a39604cff11" />
 </Solution>
