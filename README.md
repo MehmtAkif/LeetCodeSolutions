@@ -10,6 +10,7 @@ Her problem C# ile çözülmüş olup konu bazlı olarak düzenlenmiştir.
 | Konu | Problem Sayısı |
 |------|---------------|
 | [Arrays](./Arrays/) | 5 |
+| [Tree](./Tree/) | 1 |
 
 ---
 
@@ -22,6 +23,7 @@ Her problem C# ile çözülmüş olup konu bazlı olarak düzenlenmiştir.
 | 3 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | Array, HashSet | [Çözüm](./Arrays/ContainsDuplicate.cs) |
 | 4 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | Array, Dynamic Programming | [Çözüm](./Arrays/MaximumSubarray.cs) |
 | 5 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | Array | [Çözüm](./Arrays/ProductOfArrayExceptSelf.cs) |
+| 6 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | 🟢 Easy | Tree, DFS | [Çözüm](./Tree/BinaryTreePaths.cs) |
 
 ---
 
@@ -31,7 +33,7 @@ Her problem C# ile çözülmüş olup konu bazlı olarak düzenlenmiştir.
 ---
 
 ## 📈 İlerleme
-- **Toplam Çözülen:** 5
-- **Easy:** 3
+- **Toplam Çözülen:** 6
+- **Easy:** 4
 - **Medium:** 2
 - **Hard:** 0
